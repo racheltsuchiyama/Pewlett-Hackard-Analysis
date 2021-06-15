@@ -39,7 +39,7 @@ The employees eligible to participate in the mentorship program were the closet 
 
 <img width="742" alt="mentorshipeligibility" src="https://user-images.githubusercontent.com/83552696/121980279-7fc2b580-cd40-11eb-9a7b-6c959f4f660d.png">
 
-With the retiring titles and mentorship elgibility tables, Pewlett Hackward can make an adequately prepare for the large number of employees set to retire.
+With the retiring titles and mentorship elgibility tables, Pewlett Hackward can adequately prepare for the large number of employees set to retire.
 
 ## Summary
 
