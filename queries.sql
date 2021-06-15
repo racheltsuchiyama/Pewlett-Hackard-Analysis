@@ -29,3 +29,17 @@ WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 
 SELECT * FROM retirement_info;
+
+-- Find count of titles of mentorship eligible employees
+SELECT title,
+COUNT(title) as count
+FROM mentorship_elgibility
+GROUP BY title
+ORDER BY count DESC;
+
+SELECT birth_date,
+COUNT(birth_date) as count
+FROM employees 
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+GROUP BY birth_date
+ORDER BY count DESC;
