@@ -10,6 +10,7 @@ Using the data from the employees.csv, departments.csv, titles.csv, salaries.csv
 ## Results 
 
 * **Retirement Titles**
+
 First, I wanted to find all the employees that were retiring and their job titles. I combined the employees.csv and titles.csv to create a new table with the desired information for employees born between 1952 and 1955.
 
 <img width="659" alt="retirement_titles" src="https://user-images.githubusercontent.com/83552696/121820417-786bb100-cc47-11eb-9092-a74ce0810df4.png">
@@ -22,7 +23,7 @@ By filtering the retirement titles table, I created a new table containing only 
 
 <img width="486" alt="unique_titles" src="https://user-images.githubusercontent.com/83552696/121820422-7f92bf00-cc47-11eb-83ee-5b641caf9558.png">
 
-This table provided the company with a list of the roles that would need to be filled whent these employees retire.
+This table provided the company with a list of the roles that would need to be filled when these employees retire.
 
 * **Retiring Titles**
 
