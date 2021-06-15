@@ -36,16 +36,20 @@ Most of the retiring employees were either senior engineer or senior staff membe
 
 The employees eligible to participate in the mentorship program were the closet to retiring. Therefore, I extracted all the current employees born in 1965.
 
-
+<img width="742" alt="mentorshipeligibility" src="https://user-images.githubusercontent.com/83552696/121980279-7fc2b580-cd40-11eb-9a7b-6c959f4f660d.png">
 
 With the retiring titles and mentorship elgibility tables, Pewlett Hackward can make an adequately prepare for the large number of employees set to retire.
 
 ## Summary
 
+The large wave of retiring employees, called the silver tsunami, would have a large impact on the company. I created a new table that contained the titles of the employees that were elibile for the mentorship program:
+
+<img width="219" alt="me_titlescount" src="https://user-images.githubusercontent.com/83552696/121980336-9bc65700-cd40-11eb-8695-903981cd0bd4.png">
+
+The largest number of employees elibile for the mentorship program were senior staff. These employees could mentor the current staff members in preparation for their retirement. There were also a large number of senior engineers and engineers eligible for the program. Therefore, Pewlett Hackward should focus on hiring new engineers and mentoring them, along with mentoring the current assistant engineers at the company.
 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Due to the large number of retiring employees, the mentorship eligibilty should be extended to employees born in 1964 and 1965. The number of employees born in 1965 would not be sufficient to supplement the impending silver tsunami. However, including the employees born in 1964 adds thousands of more employees to the program:
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+<img width="215" alt="Screen Shot 2021-06-14 at 6 52 11 PM" src="https://user-images.githubusercontent.com/83552696/121981011-ce248400-cd41-11eb-8fb7-95baf1140316.png">
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
